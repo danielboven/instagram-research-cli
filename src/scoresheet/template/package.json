@@ -1,0 +1,9 @@
+{
+  "name": "scoresheet-template",
+  "version": "1.0.0",
+  "main": "js/main.js",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}

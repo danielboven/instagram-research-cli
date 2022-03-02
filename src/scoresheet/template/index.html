@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scoresheet</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,800;1,800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="parent-1" class="parent">
+        <h2 class="title">Scorekaart van <span class="bold" id="username">@</span></h2>
+        <div class="content">
+            <div class="item">
+                <span class="statement"></span>
+                <div class="graphic_scale clearfix">
+                    <div class="extreme_value left">0</div>
+                    <div class="field">
+                        <input type="range" min="0" max="100" steps="1">
+                    </div>
+                    <div class="extreme_value right">100</div>
+                </div>
+                <div class="extremes clearfix">
+                    <div class="extreme_text left">
+                        Helemaal
+                        <br>
+                        mee oneens
+                    </div>
+                    <div class="extreme_text right">
+                        Helemaal
+                        <br>
+                        mee eens
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/rangeslider.min.js"></script>
+    <script src="js/bundle.js"></script>
+</body>
+
+</html>

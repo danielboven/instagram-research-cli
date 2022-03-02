@@ -1,0 +1,25 @@
+{
+    "my_username": {
+        "quiz": [
+            {
+                "question": "Do you wear Nike?",
+                "mediaId": "9806332498258595396_2316967922",
+                "stickerId": "41754442125897238"
+            }
+        ],
+        "question": [
+            {
+                "question": "Age",
+                "mediaId": "1484154903791723122_3149262646",
+                "stickerId": "35469566428172771"
+            }
+        ],
+        "slider": [
+            {
+                "question": "Offers high quality products and services",
+                "mediaId": "6067271198106239179_3501462286",
+                "stickerId": "11235868267305708"
+            }
+        ]
+    }
+}
