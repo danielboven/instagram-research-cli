@@ -5,12 +5,12 @@ This application is an example of how to retrieve and process results from a que
 
 Note that if you want to use this app, you will probably have to make changes to the code to make it suit your needs. For instance, certain values required for this research (like filter thresholds, output directories) are hardcoded into the program.
 
-* [`node index.js get`](#val1)
-* [`node index.js count`](#val2)
-* [`node index.js convert`](#val3)
-* [`node index.js csv --file FILE`](#val4)
-* [`node index.js picture --file FILE`](#val4)
-* [`node index.js scoresheet --file FILE`](#val5)
+* [`node index.js get`](#node-indexjs-get)
+* [`node index.js count`](#node-indexjs-get)
+* [`node index.js convert`](#node-indexjs-get)
+* [`node index.js csv --file FILE`](#node-indexjs-get)
+* [`node index.js picture --file FILE`](#node-indexjs-get)
+* [`node index.js scoresheet --file FILE`](#node-indexjs-get)
 
 ## `node index.js get`
 
